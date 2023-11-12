@@ -3,7 +3,9 @@
 A new Flutter project.
 
 ## Getting Started
-<img src="https://github.com/Master-Bibash/Portfolio-App-Design/blob/main/project%20photoes/Screenshot%202023-11-12%20131008.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://github.com/Master-Bibash/Portfolio-App-Design/blob/main/project%20photoes/Screenshot%202023-11-12%20131008.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="400" />
+<img src="https://github.com/Master-Bibash/Portfolio-App-Design/blob/main/project%20photoes/Screenshot%202023-11-12%20131022.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="400" />
+<img src="https://github.com/Master-Bibash/Portfolio-App-Design/blob/main/project%20photoes/Screenshot%202023-11-12%20131108.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="400" />
 
 This project is a starting point for a Flutter application.
 
